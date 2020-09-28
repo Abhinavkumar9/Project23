@@ -15,8 +15,6 @@ function preload()
 function setup() {
 	createCanvas(800, 700);
 	rectMode(CENTER);
-
-	box=createSprite(200, 100, 10,70);
 	
 
 	packageSprite=createSprite(width/2, 80, 10,10);
